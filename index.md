@@ -26,7 +26,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see [Basic writing and formatting syntax](h[proposal prototype.docx](https://github.com/Apostles1/Apostles1/files/8028137/proposal.prototype.docx)[guidance economy [Autosaved] [Autosaved].pptx](https://github.com/Apostles1/Apostles1/files/8028139/guidance.economy.Autosaved.Autosaved.pptx)
+
 
 ### Jekyll Themes
 
