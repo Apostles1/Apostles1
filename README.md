@@ -15,4 +15,4 @@ Here are some ideas to get you started:Looking to stage my project through websi
 - ⚡ Fun fact: ...Parrallel New world.[Demographic Infographics by Slidesgo [Autosaved] [Autosaved].pptx](https://github.com/Apostles1/Apostles1/files/9738067/Demographic.Infographics.by.Slidesgo.Autosaved.Autosaved.pptx)
  
 -->
-Compilling 'Ledgendary', affiliation to 'Architecture History. 
+Compilling 'Ledgendary', affiliation to my 'work'with creation 'Architecture History. 
