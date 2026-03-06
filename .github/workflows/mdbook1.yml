@@ -1,4 +1,4 @@
-            - name: Deploy MDBook
+            - name: Apostles MDBook
   # You may pin to the exact commit or the version.
   # uses: XAMPPRocky/deploy-mdbook@508792eaea5817897ccdfc1b5b7047dbe9ec5a5c
   uses: XAMPPRocky/deploy-mdbook@v1
