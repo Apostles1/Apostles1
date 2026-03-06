@@ -8,7 +8,7 @@ on:
   # Runs on pushes targeting the default branch
   push:Apostles-Enterprise-pages          - name: Setup Node.js environment
   uses: actions/setup-node@v6.3.0
-  with:
+  with:[![.github/workflows/mdbook.yml](https://github.com/Apostles1/Apostles1/actions/workflows/mdbook.yml/badge.svg?event=page_build)](https://github.com/Apostles1/Apostles1/actions/workflows/mdbook.yml)
     # Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0.
     node-version: # optional
     # File containing the version Spec of the version to use.  Examples: package.json, .nvmrc, .node-version, .tool-versions.
