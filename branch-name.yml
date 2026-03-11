@@ -1,0 +1,4 @@
+git branch -m Apostles-Enterprise-pages crown-delegate-pages
+git fetch origin
+git branch -u origin/crown-delegate-pages crown-delegate-pages
+git remote set-head origin -a
