@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-
+[![Jekyll site CI](https://github.com/Apostles1/crown_delegate/actions/workflows/jekyll-docker.yml/badge.svg?event=workflow_run)](https://github.com/Apostles1/crown_delegate/actions/workflows/jekyll-docker.yml)
     runs-on: ubuntu-latest
 
     steps:
